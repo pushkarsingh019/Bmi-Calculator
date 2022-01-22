@@ -1,0 +1,24 @@
+{
+  "name": "bmi-calculator",
+  "version": "1.0.0",
+  "description": "A simple BMI calculator, where the calculation takes place at the server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pushkarsingh019/Bmi-Calculator.git"
+  },
+  "author": "Pushkar Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pushkarsingh019/Bmi-Calculator/issues"
+  },
+  "homepage": "https://github.com/pushkarsingh019/Bmi-Calculator#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2"
+  }
+}
